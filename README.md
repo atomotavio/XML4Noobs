@@ -13,6 +13,7 @@
 Repositório dedicado a introduzir o XML (eXtensible Markup Language), seu conceito, estrutura e validações.
 
 <h2>⚠️ Requisitos:</h2>
+
 * Vontade de aprender;
 * **Não é necessário conhecimento prévio em uma linguagem de programação.**
 
