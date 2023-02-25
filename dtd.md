@@ -71,7 +71,7 @@ A DTD vai conter:
 
 ~~~~
 
-*Exemplos retirado da W3Schools*
+*Exemplos retirados da W3Schools*
 
 <p>Nosso objetivo não é aprofundar no DTD e demonstrar a criação de um na prática, apenas informar sobre sua existência e importância.</p>
 

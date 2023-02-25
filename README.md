@@ -23,6 +23,7 @@ Repositório dedicado a introduzir o XML (eXtensible Markup Language), seu conce
 3. [Estrutura do XML](estrutura.md)
 4. [DTD (Document type definition)](dtd.md)
 5. [XML Schema](xmlschema.md)
+6. [Bibliografia](bibliografia.md)
 
 [+ Conteúdos gratuitos para aprender](https://github.com/he4rt/4noobs)
 
