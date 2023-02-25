@@ -1,6 +1,6 @@
 ![header](https://github.com/andreluispy/assembly4noobs/blob/main/header-4noobs.svg)
 
-# XML4Noobs
+<h1 align="center">XML4Noobs</h1>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
@@ -8,15 +8,15 @@
   </a>
 </p>
 
-## Sobre o projeto
+<h2>💻 Sobre o projeto</h2>
 
 Repositório dedicado a introduzir o XML (eXtensible Markup Language), seu conceito, estrutura e validações.
 
-## Requisitos:
+<h2>⚠️ Requisitos:</h2>
 - Vontade de aprender;
 - **Não é necessário conhecimento prévio em uma linguagem de programação.**
 
-## Sumário
+<h2>📌 Sumário</h2>
 
 1. [Introdução](introducao.md)
 2. [XML x HTML](xmlhtml.md)
@@ -26,7 +26,7 @@ Repositório dedicado a introduzir o XML (eXtensible Markup Language), seu conce
 
 [+ Conteúdos gratuitos para aprender](https://github.com/he4rt/4noobs)
 
-## Mantenedores ✨
+<h2>✨ Mantenedores</h2>
 
 Nosso obrigado vai pra essas pessoas incríveis ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
