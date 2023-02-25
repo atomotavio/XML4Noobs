@@ -6,6 +6,7 @@
 <p>Ele foi construido baseado em uma norma ISO que define o SGML (Standard Generalized Markup Language), ela define as declarações/sintaxe das linguagens de marcação.</p>
 <p>A linguagem XML tem sido adotada como padrão para representação de dados e troca de informações nas mais diferentes áreas.</p>
 <p>XML representa dados de forma muito mais legível para nós, quando comparamos com outros formatos (ex: arquivo “.csv”, arquivo JSON, tabelas relacionais). Ou seja: as próprias tags já são capazes de explicar o significado do conteúdo dos dados que representam. Normalmente, basta “bater o olho” em um arquivo XML para entender o seu significado.</p>
+<p>Além de sua fama própria, o XML possui algumas outras famosas linguagens nela baseadas como: XHTML (formato para páginas Web), RDF, SDMX, SMIL, MathML (formato para expressões matemáticas), NCL, XBRL, XSIL e SVG (formato gráfico vetorial).</p>
 
 <h3>Exemplo de documento XML</h3>
 
