@@ -37,4 +37,6 @@
 
 *Exemplo retirado do wikipedia*
 
+[Aprenda mais sobre HTML](https://github.com/sorenhe4rt/HTML4Noobs)
+
 [Próxima sessão ➡️](estrutura.md)
