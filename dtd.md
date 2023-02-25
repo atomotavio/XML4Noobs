@@ -1,0 +1,1 @@
+[Próxima sessão ➡️](xmlschema.md)
