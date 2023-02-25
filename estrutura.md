@@ -2,12 +2,14 @@
 
 <p>O XML é um formato para a criação de documentos com dados organizados de forma hierárquica, basicamente como uma árvore.</p>
 <p>Sua estrutura consiste em:</p>
-- Instrução de processamento, geralmente no cabeçalho;
-- Declaração de entidades;
-- Suas tags, de inicio e fim;
-- Respeito ao posicionamento de suas tags.
+* Instrução de processamento, geralmente no cabeçalho;
+* Declaração de entidades;
+* Suas tags, de inicio e fim;
+* Respeito ao posicionamento de suas tags.
 
-<p>Vale ressaltar que os elementos de um XML não devem ser sobrepostos</p>
+**XML é case-sensitive, ou seja, letras maiusculas e minusculas são interpretadas como caracteres diferentes.**
+
+<p>Vale ressaltar que os elementos de um XML não devem ser sobrepostos.</p>
 
 <h3>Exemplo de um XML com dados sobrepostos, ou seja, inválido</h3>
 
@@ -25,7 +27,7 @@
 
 *Exemplo retirado do blog da Loiane Groner*
 
-<p>Vamos entender a imagem. O XML possui algumas caracteristicas, como discutido anteriormente e visualizado na imagem. A primeira delas é o cabeçalho do XML, que vai conter informações referentes a sua versão, a sua validação etc. Além disso, cada **tag** representa um **elemento** e esse elemento pai pode possuir elementos filhos e/ou **atributos**, como observado na imagem.</p>
+Vamos entender a imagem. O XML possui algumas caracteristicas, como discutido anteriormente e visualizado na imagem. A primeira delas é o cabeçalho do XML, que vai conter informações referentes a sua versão, a sua validação etc. Além disso, cada **tag** representa um elemento e esse elemento pai pode possuir elementos filhos e/ou **atributos**, como observado na imagem.
 
 
 [Próxima sessão ➡️](dtd.md)
